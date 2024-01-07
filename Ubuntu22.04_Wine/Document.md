@@ -1,5 +1,5 @@
-# Ubuntu22.04にてWineを用いてFate/StayNightをやるための設定
-条件としてはVMware Workstation Playerを用いている
+# Ubuntu22.04にてWineを用いて某ゲームをやるための設定
+条件としてはVMware Workstation Player17を用いている
 
 ## 適当にUbuntuをインストール
 ※省略
