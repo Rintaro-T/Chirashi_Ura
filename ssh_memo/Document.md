@@ -13,7 +13,7 @@ $ ssh-keygen -p -f ~/.ssh/id_ed25519
 
 ## サーバに公開鍵を設定
 ```bash
-$ ssh-copy-id -i ~/.ssh/id_ed25519 username@serverIP
+$ ssh-copy-id -i ~/.ssh/id_ed25519.pub username@serverIP
 ```
 
 ## サーバ側でのセキュリティ向上
